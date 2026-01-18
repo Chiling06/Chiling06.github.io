@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chang Le is a first-year graduate student at the School of Pharmacy of Peking University. His research focuses mainly on the biosynthesis of natural products and the mechanism analysis and modification of key enzymes.
+Le Chang is a first-year graduate student at the School of Pharmacy of Peking University. His research focuses mainly on the biosynthesis of natural products and the mechanism analysis and modification of key enzymes.
 
 Education
 ======
